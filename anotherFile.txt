@@ -1,5 +1,1 @@
-A file in English
-Modify this please
-
-
-new and last version of file - trying to solve the unmerge problem X pull
+anotherFile: deleted previous lines. trying again. 
