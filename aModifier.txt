@@ -1,4 +1,9 @@
 il faut modifier ce fichier 
 Ajoutez ce que vous voulez
 
+<<<<<<< HEAD
 new bug correction by veroandi
+=======
+modified!!!
+modified for the 2ndo time!!!!
+>>>>>>> c3736b33725199d69fa096955468a782431613fc
