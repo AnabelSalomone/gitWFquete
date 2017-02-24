@@ -1,9 +1,5 @@
 A file in English
 Modify this please
 
-<<<<<<< HEAD
-bugCorrection asked by client
-=======
-modified!!!
-modified for the second time!!
->>>>>>> c3736b33725199d69fa096955468a782431613fc
+
+new and last version of file - trying to solve the unmerge problem X pull

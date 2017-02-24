@@ -1,9 +1,13 @@
 il faut modifier ce fichier 
 Ajoutez ce que vous voulez
 
-<<<<<<< HEAD
-new bug correction by veroandi
-=======
-modified!!!
+
+new and last version of file - trying to solve the unmerge problem X pull
+
+3rd modification: new bug correction by veroandi
+
+2nd modification by ...
 modified for the 2ndo time!!!!
->>>>>>> c3736b33725199d69fa096955468a782431613fc
+
+1st modification: veroandi ajoute une nouvelle ligne
+
