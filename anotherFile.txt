@@ -1,2 +1,4 @@
 A file in English
 Modify this please
+
+bugCorrection by veroandi
