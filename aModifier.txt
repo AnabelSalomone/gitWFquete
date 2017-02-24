@@ -1,4 +1,4 @@
 il faut modifier ce fichier 
 Ajoutez ce que vous voulez
 
-bug correction by veroandi
+new bug correction by veroandi
